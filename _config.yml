@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
+title:            "静看技术演变，细品技术芬芳"
+description:      "一个人在技术的世界里，拾拾捡捡，走走逛逛~"
 url:              https://hfutweile.github.io/  # 域名
-signoff:          "LiberXue" # Your name
+signoff:          "技术拾荒者" # Your name
 facebook_appid:   #liberxue
 google_analytics: UA-101222464-1
 share:            true 
